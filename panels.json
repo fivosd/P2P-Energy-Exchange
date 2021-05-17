@@ -1,0 +1,26 @@
+{ 
+    "small panel" : 
+    {
+        "Wattage": 250,
+        "Area" : 1.6,
+        "Efficiency": 0.15,
+        "Price" : 300
+    },
+    
+    "medium panel" :
+    {
+        "Wattage" : 300,
+        "Area" : 1.67,
+        "Efficiency" : 0.16,
+        "Price" : 320
+    },
+
+    "large panel" :
+    {
+        "Wattage" : 350,
+        "Area" : 1.9,
+        "Efficiency" : 0.17,
+        "Price" : 400
+    }
+    
+}
